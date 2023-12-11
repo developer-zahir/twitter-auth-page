@@ -1,0 +1,12 @@
+.home{
+    display: flex;
+    justify-content: center;
+    a{
+        padding: 10px 20px;
+        border-radius: 4px;
+        background: var(--primary);
+        color: var(--white);
+        display: inline-block;
+        margin:100px auto;
+    }
+}
